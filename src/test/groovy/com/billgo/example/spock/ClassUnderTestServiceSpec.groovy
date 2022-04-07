@@ -1,4 +1,4 @@
-package com.billgo.example.spock.spockexample
+package com.billgo.example.spock
 
 import spock.lang.Specification
 

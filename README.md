@@ -1,5 +1,8 @@
 # spock-example
 examples using the spock testing framework
 
-## examples classes:
-* `ClassUnderTestSpec` tests `ClassUnderTest.java`
+## examples:
+* `ClassUnderTestServiceSpec` tests `ClassUnderTestService.java`
+
+## coverage report
+build/reports/jacoco/test/html/index.html

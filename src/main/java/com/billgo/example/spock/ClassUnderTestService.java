@@ -1,4 +1,4 @@
-package com.billgo.example.spock.spockexample;
+package com.billgo.example.spock;
 
 
 import lombok.EqualsAndHashCode;
@@ -61,7 +61,5 @@ public class ClassUnderTestService {
     return filteredSomeObjects;
 
   }
-
-
 
 }
